@@ -18,7 +18,7 @@ import jakarta.servlet.http.HttpServletResponse;
 @WebServlet("/Angry")
 public class Angry extends HttpServlet {
     private static final long serialVersionUID = 1L;
-    private static final String[] msgs = { "BADAP0001W: quit bugging me.  20240918-1341", "BADAP0002W: go away.",
+    private static final String[] msgs = { "BADAP0001W: quit bugging me.  20240923-1429", "BADAP0002W: go away.",
             "BADAP0003W: why don't you go find an app that likes you?",
             "BADAP0010E: you should have gone to the other presentation.",
             "BADAP0011E: if you leave now you can still get cookies in the hallway." };
